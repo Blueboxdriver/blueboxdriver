@@ -1,6 +1,5 @@
 - 🔭 I’m currently working on: school projects
-- 🌱 I’m currently learning: C#, Rust :(
-- 👯 I’m looking to collaborate on: nothing yet
-- 🤔 I’m looking for help with: banging my head against a wall until I figure it out
-- 💬 Ask me about: current gold prices
-- 📫 How to reach me: don't
+- 🌱 I’m currently learning: C#, Rust, Godot
+- 👯 I’m looking to collaborate on: Cybersecurity tools
+- 🤔 I’m looking for help with: Learning Rust.
+- 💬 Ask me about: Game development.
