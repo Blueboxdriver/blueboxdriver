@@ -1,5 +1,3 @@
 - 🔭 I’m currently working on: school projects
-- 🌱 I’m currently learning: C#, Rust, Godot
 - 👯 I’m looking to collaborate on: Cybersecurity tools
-- 🤔 I’m looking for help with: Learning Rust.
-- 💬 Ask me about: Game development.
+- 💬 Ask me about: Blue Teaming
