@@ -1,3 +1,1 @@
-- 🔭 I’m currently working on: school projects
-- 👯 I’m looking to collaborate on: Cybersecurity tools
-- 💬 Ask me about: Blue Teaming
+
